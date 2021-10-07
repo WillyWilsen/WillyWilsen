@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Willy Wilsen
+- Hello 👋 I'm Willy Wilsen, just call me Willy
 - 🌱 I’m currently learning front-end and back-end development
 - 💞️ I’m looking to collaborate on website project
 - 📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
