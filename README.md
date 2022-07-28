@@ -3,7 +3,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 <br><br>
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
-## What I have learned
+## Projects I have made
 ### - Frontend
 <table>
   <tr>
@@ -71,7 +71,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 
 ### - Note: All of my projects are searchable in my repositories.
 
-## What I'm learning
+## Projects I'm working on
 <table>
   <tr>
     <th>Current Learning</th>
