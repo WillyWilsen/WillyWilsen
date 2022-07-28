@@ -62,7 +62,7 @@ Welcome 👋 I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on
 
 <strong>NOTE: All of my projects are searchable in my repositories.</strong>
 
-<p style={font-size: 18px;}>📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a></p>
+<p style="font-size: 18px;">📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a></p>
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
