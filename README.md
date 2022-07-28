@@ -8,7 +8,7 @@ What I have learned are:
   </tr>
   <tr>
     <td>Javascript</td>
-    <td>React.js, Vue.js, Angular.js</td>
+    <td>React.js<br> Vue.js<br> Angular.js</td>
   </tr>
 </table>
 
