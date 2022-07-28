@@ -3,7 +3,12 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
 <br><br>
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
+## My Projects
+
+### Note: All of my projects are searchable in my repositories.
+
 ## My Tech Stack
+
 ### Frontend
 <table>
   <tr>
@@ -50,7 +55,7 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
 ### Others
 <table>
   <tr>
-    <th>Feature</th>
+    <th>Other Skill</th>
   </tr>
   <tr>
     <td>Bootstrap</td>
@@ -66,9 +71,7 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
   </tr>
 </table>
 
-### Note: All of my projects are searchable in my repositories.
-
-## Projects I'm learning
+## Tech Stack I'm learning
 <table>
   <tr>
     <th>Current Learning</th>
