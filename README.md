@@ -11,7 +11,9 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <th>Framework</th>
   </tr>
   <tr>
-    <td>Javascript</td>
+    <td>HTML
+      <br>CSS
+      <br>Javascript</td>
     <td>React.js
       <br>Vue.js
       <br>Angular.js</td>
