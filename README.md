@@ -1,5 +1,5 @@
 # Welcome 👋 
-Hello, I'm Willy. I'm a Full Stack Engineer and an undergraduate Computer Science student from Bandung Institute of Technology . I'm looking to collaborate on a part time or freelance project✨
+Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduate <strong>Computer Science</strong> student from <strong>Bandung Institute of Technology</strong>. I'm looking to collaborate on a part time or freelance project✨
 <br><br>
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
