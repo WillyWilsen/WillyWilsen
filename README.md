@@ -53,6 +53,9 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <th>Feature</th>
   </tr>
   <tr>
+    <td>Bootstrap</td>
+  </tr>
+  <tr>
     <td>REST API</td>
   </tr>
   <tr>
