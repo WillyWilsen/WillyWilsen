@@ -1,10 +1,18 @@
+<style>
+  div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+</style>
+
 # Welcome 👋 
 Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduate <strong>Computer Science</strong> student from <strong>Bandung Institute of Technology</strong>. I'm looking to collaborate on a part time or freelance project✨
 <br><br>
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 ## Projects I have made
-<div style="display: flex; flex-direction: row; justify-content: center">
+<div>
 ### Frontend (UI/UX)
 <table>
   <tr>
