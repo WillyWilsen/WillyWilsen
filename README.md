@@ -1,5 +1,6 @@
 # Welcome 👋 
-I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a part time or freelance project✨
+Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a part time or freelance project✨
+<br>
 📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 ## What I have learned
