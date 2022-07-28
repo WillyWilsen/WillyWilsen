@@ -63,7 +63,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-### NOTE: All of my projects are searchable in my repositories.
+### Note: All of my projects are searchable in my repositories.
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
