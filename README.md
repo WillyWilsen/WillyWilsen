@@ -1,7 +1,8 @@
-## Welcome 👋 
+# Welcome 👋 
 I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a part time or freelance project✨
-<br><br>
-### What I have learned
+📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
+
+## What I have learned
 - <strong>Frontend:</strong>
 <table>
   <tr>
@@ -62,8 +63,6 @@ I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a part time 
 </table>
 
 <strong>NOTE: All of my projects are searchable in my repositories.</strong>
-
-<p style="font-size: 24px;">📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a></p>
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
