@@ -68,16 +68,16 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 
 ### Note: All of my projects are searchable in my repositories.
 
-## What I am learning
+## What I'm learning
 <table>
   <tr>
     <th>Current Learning</th>
   </tr>
   <tr>
-    <th>Android Development</th>
+    <td>Android Development</td>
   </tr>
   <tr>
-    <th>Ruby on Rails</th>
+    <td>Ruby on Rails</td>
   </tr>
 </table>
 
