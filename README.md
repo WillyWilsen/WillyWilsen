@@ -1,6 +1,6 @@
-Welcome 👋 I'm Willy. I'm a Full Stack Engineer. I’m looking to collaborate on website project✨
-<br>
-What I have learned are:
+Welcome 👋 I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a part time or freelance project✨
+<br><br>
+<strong>What I have learned:</strong>
 - <strong>Frontend:</strong>
 <table>
   <tr>
@@ -60,7 +60,7 @@ What I have learned are:
   </tr>
 </table>
 
-<strong>Note: All my projects are searchable in my repositories.</strong>
+<strong>NOTE: All of my projects are searchable in my repositories.</strong>
 
 📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
