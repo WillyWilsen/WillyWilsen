@@ -9,8 +9,8 @@ What I have learned are:
   <tr>
     <td>Javascript</td>
     <td>React.js
-        Vue.js
-        Angular.js</td>
+      <br>Vue.js
+      <br>Angular.js</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@ What I have learned are:
   <tr>
     <td>Python</td>
     <td>Flask
-        Django</td>
+      <br>Django</td>
   </tr>
   <tr>
     <td>Go</td>
@@ -44,9 +44,25 @@ What I have learned are:
 </table>
 
 - <strong>Others</strong>:
-All my projects are searchable in my repositories.
-- 💞️ I’m looking to collaborate on website project
-- 📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
+<table>
+  <tr>
+    <th>Feature</th>
+  </tr>
+  <tr>
+    <td>Dockerize</td>
+  </tr>
+  <tr>
+    <td>CI/CD</td>
+  </tr>
+  <tr>
+    <td>Typescript</td>
+  </tr>
+</table>
+
+<strong>Note: All my projects are searchable in my repositories.</strong>
+
+I’m looking to collaborate on website project✨
+📫 Reach me via <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
