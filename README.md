@@ -53,17 +53,33 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <th>Feature</th>
   </tr>
   <tr>
+    <td>REST & Authorized API</td>
+  </tr>
+  <tr>
+    <td>Typescript</td>
+  </tr>
+  <tr>
     <td>Dockerize</td>
   </tr>
   <tr>
     <td>CI/CD</td>
   </tr>
-  <tr>
-    <td>Typescript</td>
-  </tr>
 </table>
 
 ### Note: All of my projects are searchable in my repositories.
+
+## What I am learning
+<table>
+  <tr>
+    <th>Current Learning</th>
+  </tr>
+  <tr>
+    <th>Android Development</th>
+  </tr>
+  <tr>
+    <th>Ruby on Rails</th>
+  </tr>
+</table>
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
