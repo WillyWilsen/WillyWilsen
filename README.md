@@ -4,7 +4,8 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 ## Projects I have made
-### - Frontend (UI/UX)
+<div style="display: flex; flex-direction: row; justify-content: center">
+### Frontend (UI/UX)
 <table>
   <tr>
     <th>Language</th>
@@ -71,8 +72,9 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
     <td>CI/CD</td>
   </tr>
 </table>
+</div>
 
-### - Note: All of my projects are searchable in my repositories.
+### Note: All of my projects are searchable in my repositories.
 
 ## Projects I'm learning
 <table>
