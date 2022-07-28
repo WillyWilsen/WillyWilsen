@@ -53,7 +53,10 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <th>Feature</th>
   </tr>
   <tr>
-    <td>REST & Authorized API</td>
+    <td>REST API</td>
+  </tr>
+  <tr>
+    <td>Authorized API</td>
   </tr>
   <tr>
     <td>Typescript</td>
@@ -66,7 +69,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-### Note: All of my projects are searchable in my repositories.
+### - Note: All of my projects are searchable in my repositories.
 
 ## What I'm learning
 <table>
