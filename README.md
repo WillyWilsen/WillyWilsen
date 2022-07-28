@@ -1,19 +1,10 @@
-<style>
-  div {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-  }
-</style>
-
 # Welcome 👋 
 Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduate <strong>Computer Science</strong> student from <strong>Bandung Institute of Technology</strong>. I'm looking to collaborate on a part time or freelance project✨
 <br><br>
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
-## Projects I have made
-<div>
-### Frontend (UI/UX)
+## My Tech Stack
+### Frontend
 <table>
   <tr>
     <th>Language</th>
@@ -27,7 +18,7 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
   </tr>
 </table>
 
-### - Backend (REST API)
+### Backend
 <table>
   <tr>
     <th>Language</th>
@@ -56,19 +47,13 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
   </tr>
 </table>
 
-### - Others
+### Others
 <table>
   <tr>
     <th>Feature</th>
   </tr>
   <tr>
     <td>Bootstrap</td>
-  </tr>
-  <tr>
-    <td>API Authorization</td>
-  </tr>
-  <tr>
-    <td>API Caching</td>
   </tr>
   <tr>
     <td>Typescript</td>
@@ -80,7 +65,6 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
     <td>CI/CD</td>
   </tr>
 </table>
-</div>
 
 ### Note: All of my projects are searchable in my repositories.
 
