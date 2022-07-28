@@ -11,9 +11,7 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
     <th>Framework</th>
   </tr>
   <tr>
-    <td>HTML,
-      <br>CSS,
-      <br>Javascript</td>
+    <td>HTML, CSS, & Javascript</td>
     <td>React.js
       <br>Vue.js
       <br>Angular.js</td>
