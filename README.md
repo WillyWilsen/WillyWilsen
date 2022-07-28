@@ -4,7 +4,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 ## Projects I have made
-### - Frontend
+### - Frontend (UI/UX)
 <table>
   <tr>
     <th>Language</th>
@@ -20,7 +20,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-### - Backend
+### - Backend (REST API)
 <table>
   <tr>
     <th>Language</th>
@@ -56,9 +56,6 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
   <tr>
     <td>Bootstrap</td>
-  </tr>
-  <tr>
-    <td>REST API</td>
   </tr>
   <tr>
     <td>API Authorization</td>
