@@ -56,7 +56,10 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <td>REST API</td>
   </tr>
   <tr>
-    <td>Authorized API</td>
+    <td>API Authorization</td>
+  </tr>
+  <tr>
+    <td>API Caching</td>
   </tr>
   <tr>
     <td>Typescript</td>
@@ -71,7 +74,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 
 ### - Note: All of my projects are searchable in my repositories.
 
-## Projects I'm working on
+## Projects I'm learning
 <table>
   <tr>
     <th>Current Learning</th>
