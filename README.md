@@ -4,7 +4,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
 📫 Reach me via <a href="mailto:13520160@std.stei.itb.ac.id">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
 
 ## What I have learned
-- <strong>Frontend:</strong>
+### - Frontend
 <table>
   <tr>
     <th>Language</th>
@@ -18,7 +18,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-- <strong>Backend:</strong> 
+### - Backend
 <table>
   <tr>
     <th>Language</th>
@@ -47,7 +47,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-- <strong>Others</strong>:
+### - Others
 <table>
   <tr>
     <th>Feature</th>
@@ -63,7 +63,7 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
   </tr>
 </table>
 
-<strong>NOTE: All of my projects are searchable in my repositories.</strong>
+### NOTE: All of my projects are searchable in my repositories.
 
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
