@@ -77,6 +77,9 @@ Hello, I'm Willy. I'm a Full Stack Engineer. I'm looking to collaborate on a par
     <th>Current Learning</th>
   </tr>
   <tr>
+    <td>Next.js</td>
+  </tr>
+  <tr>
     <td>Android Development</td>
   </tr>
   <tr>
