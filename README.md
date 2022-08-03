@@ -61,13 +61,13 @@ Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and an undergraduat
     <td>Bootstrap</td>
   </tr>
   <tr>
-    <td>Typescript</td>
-  </tr>
-  <tr>
-    <td>Dockerize</td>
+    <td>Docker</td>
   </tr>
   <tr>
     <td>CI/CD</td>
+  </tr>
+  <tr>
+    <td>Typescript</td>
   </tr>
 </table>
 
