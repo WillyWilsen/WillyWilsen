@@ -1,5 +1,5 @@
 # Welcome 👋 
-Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and <strong>Project Manager</strong> from <strong>Bandung Institute of Technology</strong>. I'm looking to work in a company and I'm interested to collaborate on a project✨
+Hello, I'm Willy. I am a <b>Full Stack Engineer</b> who is experienced in website development and able to learn and adjust to new environments and technologies. I am also a <b>Project Manager</b> who has a lot of experience being a team leader in completing projects. In addition, I have the ability to communicate and teach others about technology.✨
 <br><br>
 📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/" target="_blank">LinkedIn</a>
 
