@@ -1,7 +1,7 @@
 # Welcome 👋 
-Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and Project Manager from <strong>Bandung Institute of Technology</strong>. I'm looking to work in a company✨
+Hello, I'm Willy. I'm a <strong>Full Stack Engineer</strong> and Project Manager from <strong>Bandung Institute of Technology</strong>. I'm looking to work in a company and I'm interested to collaborate on a project✨
 <br><br>
-📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/">LinkedIn</a>
+📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/" target="_blank">LinkedIn</a>
 
 ## My Projects
 
