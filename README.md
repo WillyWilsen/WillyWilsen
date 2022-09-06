@@ -19,7 +19,8 @@ Hello, I'm Willy. I am a <b>Full Stack Engineer</b> who is experienced in websit
     <td>HTML, CSS, & Javascript</td>
     <td>React.js
       <br>Vue.js
-      <br>Angular.js</td>
+      <br>Angular.js
+      <br>Next.js</td>
   </tr>
 </table>
 
@@ -52,11 +53,21 @@ Hello, I'm Willy. I am a <b>Full Stack Engineer</b> who is experienced in websit
   </tr>
 </table>
 
-### Others
+### Database
 <table>
   <tr>
-    <th>Other Skill</th>
+    <td>MySQL</td>
   </tr>
+  <tr>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+  </tr>
+</table>
+
+### Others
+<table>
   <tr>
     <td>Bootstrap</td>
   </tr>
@@ -68,22 +79,6 @@ Hello, I'm Willy. I am a <b>Full Stack Engineer</b> who is experienced in websit
   </tr>
   <tr>
     <td>Typescript</td>
-  </tr>
-</table>
-
-## Tech Stack I'm learning
-<table>
-  <tr>
-    <th>Current Learning</th>
-  </tr>
-  <tr>
-    <td>Next.js</td>
-  </tr>
-  <tr>
-    <td>Android Development</td>
-  </tr>
-  <tr>
-    <td>Ruby on Rails</td>
   </tr>
 </table>
 
