@@ -9,26 +9,18 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 ### Tech Stack
 
-<p align="left">
-  <div>
-    <h4>Frontend</h4>
-    <div>
-      | Framework               |
-      |-------------------------|
-      | React.js<br>Vue.js<br>Angular.js<br>Next.js |
-    </div>
-  </div>
+<h4>Frontend</h4>
+| Framework               |
+|-------------------------|
+| React.js<br>
+Vue.js<br>
+Angular.js<br>
+Next.js |
     
-    
-   <div>
-    <h4>Frontend</h4>
-    <div>
-      | Framework               |
-      |-------------------------|
-      | React.js<br>Vue.js<br>Angular.js<br>Next.js |
-    </div>
-  </div>
-</p>
+<h4>Backend</h4>
+| Framework               |
+|-------------------------|
+| React.js<br>Vue.js<br>Angular.js<br>Next.js |
 
 ### Github Statistics
 
