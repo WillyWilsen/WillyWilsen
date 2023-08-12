@@ -10,9 +10,9 @@ Highly skilled and versatile professional with expertise in Software Engineering
 ### Tech Stack
 
 <h4>Frontend</h4>
-| Framework               |
-|-------------------------|
-| React.js<br>Vue.js<br>Angular.js<br>Next.js |
+| Language                 | Framework               |
+|--------------------------|-------------------------|
+| HTML, CSS, & Javascript | React.js<br>Vue.js<br>Angular.js<br>Next.js |
     
 <h4>Backend</h4>
 | Framework               |
