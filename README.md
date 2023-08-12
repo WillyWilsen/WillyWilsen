@@ -5,7 +5,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 ### Personal Website
 
-<a href="https://willywilsen.vercel.app">Willy Wilsen</a>
+<a href="https://willywilsen.vercel.app" target="_blank">Willy Wilsen</a>
 
 ### Github Statistics
 
