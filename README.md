@@ -7,7 +7,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 <a href="https://willywilsen.vercel.app">Willy Wilsen</a>
 
-## Tech Stack
+### Tech Stack
 
 ### Frontend
 <table>
@@ -81,6 +81,8 @@ Highly skilled and versatile professional with expertise in Software Engineering
     <td>Typescript</td>
   </tr>
 </table>
+
+### Github Statistics
 
 <p align="left">
   <a href="https://github.com/WillyWilsen">
