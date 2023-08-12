@@ -3,11 +3,11 @@ Highly skilled and versatile professional with expertise in Software Engineering
 <br><br>
 📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/" target="_blank">LinkedIn</a>
 
-## My Projects
+### Personal Website
 
-### Note: All of my projects are searchable in my repositories.
+<a href="https://willywilsen.vercel.app">Willy Wilsen</a>
 
-## My Tech Stack
+## Tech Stack
 
 ### Frontend
 <table>
