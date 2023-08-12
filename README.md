@@ -11,7 +11,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 <div style="display: flex; flex-direction: row;">
   <div>
-    <h2>Frontend</h2>
+    <h5>Frontend</h5>
     <table>
       <tr>
         <th>Language</th>
@@ -28,7 +28,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
   </div>
 
   <div>
-    <h2>Backend</h2>
+    <h5>Backend</h5>
     <table>
       <tr>
         <th>Language</th>
