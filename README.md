@@ -7,18 +7,6 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 <a href="https://willywilsen.vercel.app">Willy Wilsen</a>
 
-### Tech Stack
-
-<h4>Frontend</h4>
-| Language                 | Framework               |
-|--------------------------|-------------------------|
-| HTML, CSS, & Javascript | React.js<br>Vue.js<br>Angular.js<br>Next.js |
-    
-<h4>Backend</h4>
-| Framework               |
-|-------------------------|
-| React.js<br>Vue.js<br>Angular.js<br>Next.js |
-
 ### Github Statistics
 
 <p align="left">
