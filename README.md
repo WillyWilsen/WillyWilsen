@@ -9,55 +9,21 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 ### Tech Stack
 
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <h5>Frontend</h5>
-    <table>
-      <tr>
-        <th>Language</th>
-        <th>Framework</th>
-      </tr>
-      <tr>
-        <td>HTML, CSS, & Javascript</td>
-        <td>React.js
-          <br>Vue.js
-          <br>Angular.js
-          <br>Next.js</td>
-      </tr>
-    </table>
-  </div>
+<h4>Frontend</h4>
 
-  <div>
-    <h5>Backend</h5>
-    <table>
-      <tr>
-        <th>Language</th>
-        <th>Framework</th>
-      </tr>
-      <tr>
-        <td>Javascript</td>
-        <td>Node.js (Express)</td>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>Flask
-          <br>Django</td>
-      </tr>
-      <tr>
-        <td>Go</td>
-        <td>Go Http</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>Java Spring Boot</td>
-      </tr>
-      <tr>
-        <td>PHP</td>
-        <td>Laravel</td>
-      </tr>
-    </table>
-  </div>
-</div>
+| Framework               |
+|-------------------------|
+| React.js<br>Vue.js<br>Angular.js<br>Next.js |
+
+## Backend
+
+| Language  | Framework       |
+|-----------|-----------------|
+| Javascript| Node.js (Express)|
+| Python    | Flask<br>Django |
+| Go        | Go Http         |
+| Java      | Java Spring Boot|
+| PHP       | Laravel         |
 
 ### Github Statistics
 
