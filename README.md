@@ -9,7 +9,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 ### Tech Stack
 
-<div style="display: flex; flex-direction: row;">
+<p align="left">
   <div>
     <h4>Frontend</h4>
     <div>
@@ -28,7 +28,7 @@ Highly skilled and versatile professional with expertise in Software Engineering
       | React.js<br>Vue.js<br>Angular.js<br>Next.js |
     </div>
   </div>
-</div>
+</p>
 
 ### Github Statistics
 
