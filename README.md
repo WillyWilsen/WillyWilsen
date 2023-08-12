@@ -9,20 +9,55 @@ Highly skilled and versatile professional with expertise in Software Engineering
 
 ### Tech Stack
 
-### Frontend
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Framework</th>
-  </tr>
-  <tr>
-    <td>HTML, CSS, & Javascript</td>
-    <td>React.js
-      <br>Vue.js
-      <br>Angular.js
-      <br>Next.js</td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <h2>Frontend</h2>
+    <table>
+      <tr>
+        <th>Language</th>
+        <th>Framework</th>
+      </tr>
+      <tr>
+        <td>HTML, CSS, & Javascript</td>
+        <td>React.js
+          <br>Vue.js
+          <br>Angular.js
+          <br>Next.js</td>
+      </tr>
+    </table>
+  </div>
+
+  <div>
+    <h2>Backend</h2>
+    <table>
+      <tr>
+        <th>Language</th>
+        <th>Framework</th>
+      </tr>
+      <tr>
+        <td>Javascript</td>
+        <td>Node.js (Express)</td>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>Flask
+          <br>Django</td>
+      </tr>
+      <tr>
+        <td>Go</td>
+        <td>Go Http</td>
+      </tr>
+      <tr>
+        <td>Java</td>
+        <td>Java Spring Boot</td>
+      </tr>
+      <tr>
+        <td>PHP</td>
+        <td>Laravel</td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ### Backend
 <table>
