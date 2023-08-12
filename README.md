@@ -59,64 +59,6 @@ Highly skilled and versatile professional with expertise in Software Engineering
   </div>
 </div>
 
-### Backend
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Framework</th>
-  </tr>
-  <tr>
-    <td>Javascript</td>
-    <td>Node.js (Express)</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Flask
-      <br>Django</td>
-  </tr>
-  <tr>
-    <td>Go</td>
-    <td>Go Http</td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>Java Spring Boot</td>
-  </tr>
-  <tr>
-    <td>PHP</td>
-    <td>Laravel</td>
-  </tr>
-</table>
-
-### Database
-<table>
-  <tr>
-    <td>MySQL</td>
-  </tr>
-  <tr>
-    <td>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-  </tr>
-</table>
-
-### Others
-<table>
-  <tr>
-    <td>Bootstrap</td>
-  </tr>
-  <tr>
-    <td>Docker</td>
-  </tr>
-  <tr>
-    <td>CI/CD</td>
-  </tr>
-  <tr>
-    <td>Typescript</td>
-  </tr>
-</table>
-
 ### Github Statistics
 
 <p align="left">
