@@ -82,6 +82,13 @@ Hello, I'm Willy. I am a <b>Full Stack Engineer</b> who is experienced in websit
   </tr>
 </table>
 
+<p align="left">
+  <a href="https://github.com/WillyWilsen">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillyWilsen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillyWilsen&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
