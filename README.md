@@ -24,6 +24,14 @@ Highly skilled and versatile professional with expertise in Software Engineering
   </a>
 </p>
 
+### Github Readme Stats
+
+<p align="left">
+  <a href="https://github.com/WillyWilsen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillyWilsen&show_icons=true&theme=algolia"/>
+  </a>
+</p>
+
 <!---
 TubesForLyfe/TubesForLyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
