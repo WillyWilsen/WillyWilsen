@@ -24,11 +24,11 @@ Highly skilled and versatile professional with expertise in Software Engineering
   </a>
 </p>
 
-### Github Activity Graph
+### Visitor Count Badge
 
 <p align="left">
   <a href="https://github.com/WillyWilsen">
-    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=WillyWilsen&theme=github"/>
+    <img height="180em" src="https://komarev.com/ghpvc/?username=WillyWilsen&color=green"/>
   </a>
 </p>
 
