@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Willy. 
-Highly skilled and versatile professional with expertise in Software Engineering, Data Engineering, Technical Leadership, and Cyber Security. Adept at designing and developing innovative solutions to complex technical challenges. Proven ability to lead and collaborate with cross-functional teams, ensuring successful project delivery. Combining technical proficiency with a passion for security, I strive to safeguard data and systems while optimizing performance and efficiency. Curious, adaptable, and continuously seeking opportunities to provide secure and efficient solutions that elevate organizational performance.✨
+Highly skilled and versatile professional with expertise in Software Engineering, Data Engineering, Technical Leadership, and Cyber Security. Adept at designing and developing innovative solutions to complex technical challenges. Proven ability to lead and collaborate with cross-functional teams, ensuring successful project delivery. Curious, adaptable, and continuously seeking opportunities to provide secure and efficient solutions that elevate organizational performance.✨
 <br><br>
 📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/" target="_blank">LinkedIn</a>
 
