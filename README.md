@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Willy. 
-Highly skilled and versatile professional with expertise in Software Engineering, Data Engineering, Technical Leadership, Cyber Security, System Analysis, Software QA, Cloud Engineering, and Prompt Engineering. Adept at designing and developing innovative solutions to complex technical challenges. Proven ability to lead and collaborate with cross-functional teams, ensuring successful project delivery. Curious, adaptable, and continuously seeking opportunities to provide secure and efficient solutions that elevate organizational performance.✨
+Bachelor of Computer Science graduate from Bandung Institute of Technology, who is a highly skilled and versatile professional with expertise in Software Engineering, Data Engineering, System Analysis, and Cloud Engineering for 3+ years of experience. Adept at designing and developing innovative solutions to complex technical challenges. Proven ability to lead and collaborate with cross-functional teams, ensuring successful project delivery. Curious, adaptable, and continuously seeking opportunities to provide secure and efficient solutions that elevate organizational performance.✨
 <br><br>
 📫 Reach me via <a href="mailto:willywilsen.ww@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/willywilsen/" target="_blank">LinkedIn</a>
 
